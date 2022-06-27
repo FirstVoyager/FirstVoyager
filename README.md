@@ -2,9 +2,12 @@
 ## My name is Milad sohrabi
 I am android developer
 
-- 🔭 I’m currently learning Machine learning for finance
-- 🔭 I’m tring to migrate USA
-- 
+- 🔭 I’m learning Machine learning for finance
+- 🔭 I'm trying to immigrate to America
+- 🌱 I'm learning English
+- 🌱 I'm learning Python
+
+
 <!--
 **FirstVoyager/FirstVoyager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
