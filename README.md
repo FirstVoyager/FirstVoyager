@@ -1,7 +1,10 @@
 ### Hi there 👋
-## My name is milad
+## My name is Milad sohrabi
 I am android developer
 
+- 🔭 I’m currently learning Machine learning for finance
+- 🔭 I’m tring to migrate USA
+- 
 <!--
 **FirstVoyager/FirstVoyager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
